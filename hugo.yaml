@@ -1,0 +1,19 @@
+baseURL: "https://cristian-ioan-george.github.io/omniopencon-website/"
+languageCode: "en-us"
+title: "Cristian Chira"
+theme: "PaperMod"
+
+params:
+  socialIcons:
+    - name: GitHub
+      url: https://github.com/username
+    - name: YouTube
+      url: https://www.youtube.com/@username
+    - name: LinkedIn
+      url: https://linkedin.com/in/username
+
+  profileMode:
+    enabled: true
+    title: Your Name
+    subtitle: Welcome to my blog!
+    imageUrl: https://avatars.githubusercontent.com/u/151877639?v=4
